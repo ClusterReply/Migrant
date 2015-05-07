@@ -35,4 +35,4 @@ using System.Runtime.CompilerServices;
 
 [assembly: AssemblyVersion("0.10")]
 
-[assembly: InternalsVisibleTo("Tests")]
+//[assembly: InternalsVisibleTo("Tests")]
