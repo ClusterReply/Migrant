@@ -87,6 +87,9 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup />
   <ItemGroup>
+    <None Include="Migrant.nuspec">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Migrant.snk" />
   </ItemGroup>
   <ProjectExtensions>

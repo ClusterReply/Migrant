@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Migrant-Ferrero</id>
+    <id>ClusterReply.$id$</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>https://github.com/Claudio015/Migrant</projectUrl>
+    <projectUrl>https://github.com/ClusterReply/Migrant</projectUrl>
     <iconUrl>http://b.vimeocdn.com/ps/329/760/3297601_300.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Migrant</description>
     <copyright>Copyright 2015</copyright>
-    <tags>Tag1 Tag2</tags>
   </metadata>
 </package>
