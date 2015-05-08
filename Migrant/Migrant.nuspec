@@ -3,7 +3,7 @@
   <metadata>
     <id>ClusterReply.$id$</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>ClusterReply.$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
     <projectUrl>https://github.com/ClusterReply/Migrant</projectUrl>
